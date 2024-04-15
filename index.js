@@ -18,7 +18,8 @@ import './commands/mystats';
 import './commands/gstats';
 
 // Features
-import './features/cookieThanks';
+// import './features/cookieThanks';
+import './features/inCreative';
 
 ChatLib.chat("")
 ChatLib.chat("&8[&b&lHousing&3Commands&8] &aLoaded! &8(&7/hchelp&8)")
