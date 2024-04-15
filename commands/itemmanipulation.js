@@ -99,7 +99,7 @@ register('command', () => {
     itemName = itemName.removeFormatting();
     item.setName('&6' + itemName);
     ChatLib.chat('&8[&b&lHousing&3Commands&8] &aItem colored!');
-}).setName('orangeitem');
+}).setName('orangeitem').setAliases('golditem');
 
 register('command', () => {
     const item = Player.getHeldItem();
@@ -107,7 +107,7 @@ register('command', () => {
     itemName = itemName.removeFormatting();
     item.setName('&7' + itemName);
     ChatLib.chat('&8[&b&lHousing&3Commands&8] &aItem colored!');
-}).setName('grayitem');
+}).setName('grayitem').setAliases('greyitem');
 
 register('command', () => {
     const item = Player.getHeldItem();
@@ -115,7 +115,7 @@ register('command', () => {
     itemName = itemName.removeFormatting();
     item.setName('&8' + itemName);
     ChatLib.chat('&8[&b&lHousing&3Commands&8] &aItem colored!');
-}).setName('darkgrayitem');
+}).setName('darkgrayitem').setAliases('darkgreyitem');
 
 register('command', () => {
     const item = Player.getHeldItem();
