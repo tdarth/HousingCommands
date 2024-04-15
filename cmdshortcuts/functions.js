@@ -2,7 +2,6 @@ register('command', (option, name) => {
     if (!option) {
         ChatLib.chat('&8[&b&lHousing&3Commands&8] &aOpening functions..')
         ChatLib.command('functions')
-        return
     }
     if (option == "edit") {
         if (name) {
