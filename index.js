@@ -4,6 +4,7 @@ import './commands/al3xisbald';
 import './commands/coords';
 import './commands/up';
 import './commands/down';
+import './commands/itemmanipulation';
 
 // cmdshortcuts
 import './cmdshortcuts/eventaction';
