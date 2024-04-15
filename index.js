@@ -16,7 +16,6 @@ import './commands/lobbyhousing';
 
 // Features
 import './features/cookieThanks';
-import './features/cancelevents/functionDeletion';
 
 ChatLib.chat("")
 ChatLib.chat("&8[&b&lHousing&3Commands&8] &aLoaded! &8(&7/hchelp&8)")
