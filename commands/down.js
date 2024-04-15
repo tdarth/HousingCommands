@@ -5,5 +5,4 @@ register('command', (number) => {
   } else {
     ChatLib.chat('&8[&b&lHousing&3Commands&8] &cNo value provided!")
   }
-    
 }).setName('down');
