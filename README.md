@@ -8,7 +8,8 @@ HousingCommands is a [ChatTriggers](https://chattriggers.com/) Module designed t
 ## Features
 - Commands Shortcuts
 - QoL Housing Commands
-- 
+- Item Manipulation
+- + more to come!
 
 ## Installation
 > [!IMPORTANT]
