@@ -5,4 +5,8 @@ register("chat", (event) => {
   }
 });
 
+// register('chat', (event) => {
+//   ChatLib.say(`Thanks for the cookies ${player}! <3`);
+// }).setCriteria('You received ${amount} cookies from ${player}!');
+
 // no idea if this works, will test out later
