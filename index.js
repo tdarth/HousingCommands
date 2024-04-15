@@ -2,6 +2,8 @@
 import './commands/hchelp';
 import './commands/al3xisbald';
 import './commands/coords';
+import './commands/up';
+import './commands/down';
 
 // cmdshortcuts
 import './cmdshortcuts/eventaction';
