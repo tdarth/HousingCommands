@@ -1,7 +1,0 @@
-{
-    "name": "HousingCommands",
-    "creator": "tdarth",
-    "description": "A QoL Housing Mod with command shortcuts and more!",
-    "version": "1.0.0",
-    "entry": "index.js"
-  }
