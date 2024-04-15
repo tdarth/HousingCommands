@@ -179,3 +179,10 @@ register('command', () => {
     item.setName('&f');
     ChatLib.chat('&8[&b&lHousing&3Commands&8] &aItem cleared!');
 }).setName('clearitem');
+
+register('command', () => {
+    const item = Player.getHeldItem();
+    var itemName = item.getName();
+    item.setName(itemName);
+    ChatLib.chat('&8[&b&lHousing&3Commands&8] &aItem cleared!');
+}).setName('nameitem').setAliases('renameitem');
