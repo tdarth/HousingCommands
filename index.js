@@ -13,6 +13,8 @@ import './cmdshortcuts/scoreboard';
 import './cmdshortcuts/visitingrule';
 import './commands/skullpacks';
 import './commands/lobbyhousing';
+import './commands/mystats';
+import './commands/gstats';
 
 // Features
 import './features/cookieThanks';
