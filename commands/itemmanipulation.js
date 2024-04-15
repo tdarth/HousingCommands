@@ -1,4 +1,5 @@
-register('command', () => {
+if (inCreative()) {
+    register('command', () => {
     const item = Player.getHeldItem();
     var itemName = item.getName();
     itemName = itemName.removeFormatting();
@@ -184,5 +185,11 @@ register('command', () => {
     const item = Player.getHeldItem();
     var itemName = item.getName();
     item.setName(itemName);
-    ChatLib.chat('&8[&b&lHousing&3Commands&8] &aItem cleared!');
+    ChatLib.chat('&8[&b&lHousing&3Commands&8] &aItem named!');
 }).setName('nameitem').setAliases('renameitem');
+
+} else {
+    ChatLib.chat('&8[&b&lHousing&3Commands&8] &cYou must be in Creative Mode!');
+    return;
+}
+
