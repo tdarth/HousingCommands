@@ -1,7 +1,7 @@
 import './commands/toggleasterisk'
 
 register("chat", (msg, a) => {
-  if (removeasterisk) {
+  if (removeasterisk == "yes") {
     ChatLib.chat(msg);
     cancel(a);
   } else {
