@@ -2,6 +2,7 @@
 import './commands/hchelp';
 import './commands/al3xisbald';
 import './commands/coords';
+import './commands/skullpacks';
 
 // cmdshortcuts
 import './cmdshortcuts/eventaction';
