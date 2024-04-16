@@ -26,7 +26,7 @@ class Settings {
 	
 	@TextProperty({
         name: "Chat Prefix",
-        description: "What do you want the prefix of HousingCommands to be?",
+        description: "What do you want the prefix of &aHousingCommands&7 to be?",
         category: "Settings",
         placeholder: "Enter your prefix..",
     })
