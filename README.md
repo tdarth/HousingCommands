@@ -6,7 +6,7 @@
 HousingCommands is a [ChatTriggers](https://chattriggers.com/) Module designed to **save time** when creating a Hypixel House.
 
 ## Features
-- Commands Shortcuts
+- Command Shortcuts
 - QoL Housing Commands
 - Item Manipulation
 - Many more things to come!
@@ -17,6 +17,7 @@ HousingCommands is a [ChatTriggers](https://chattriggers.com/) Module designed t
 
 ### Method #1
 Typing /ct import HousingCommands
+> The mod may not always be updated here.
 
 ### Method #2
 Clicking the green Code Button, extracting the zip, and dragging the file into your Modules Folder.
