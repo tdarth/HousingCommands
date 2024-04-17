@@ -19,6 +19,7 @@ import './cmdshortcuts/mystats';
 import './cmdshortcuts/gstats';
 
 // Features
+import './features/removeAsterisk';
 // import './features/cookieThanks';
 // import './features/inCreative';
 
