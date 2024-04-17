@@ -34,7 +34,7 @@ class Settings {
 
     @ButtonProperty({
         name: "Reload ChatTriggers",
-        description: "Reloading the module is required for some changes to apply.",
+        description: "&7Reloading the module is &crequired&7 for some changes to apply.",
         placeholder: "Reload",
         category: "Settings"
     })
@@ -131,6 +131,13 @@ class Settings {
         ChatLib.command("menus");
         Client.currentGui.close()
     }
+
+    @SwitchProperty({
+        name: "&e&lRemove Asterisk",
+        description: "&7Removes the &f* &7symbol before messages.",
+        category: "Tools",
+    })
+    asterisk = false;
 
     constructor() {
         this.initialize(this);
