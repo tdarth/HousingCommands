@@ -47,5 +47,7 @@ Clicking the green Code Button, extracting the zip, and dragging the file into y
 ### Features
 - Remove Asterisk
 - AutoGG and AutoGLHF
+- + more to come.
 
+_Suggestions? DM **@tdarth_**_on discord!__
 
