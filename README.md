@@ -21,3 +21,30 @@ Typing /ct import HousingCommands
 
 ### Method #2
 Clicking the green Code Button, extracting the zip, and dragging the file into your Modules Folder.
+
+## Command List
+
+### Shortcuts
+- /ea - Opens the Event Action menu.
+- /fun <edit, delete> <name> - Opens the Function menu.
+- /gstats - View all current Global Stats.
+- /lh - Goes to the Housing Lobby.
+- /mystats - View your current Player Stats.
+- /sb - Opens the Scoreboard Editor.
+- /heads - Opens the Skull Packs menu.
+- /vis <number> - Sets your visibility.
+- /vr <public, friends, guild, party> - Sets your house Visiting Rules.
+
+### Commands
+- /coords - Display your Coords in chat and a title.
+- /down - Teleport down a number of blocks.
+- /up - Teleport up a number of blocks.
+- /(any formatting letter)item - Sets the formatting of the item name.
+- /renameitem - Rename an item.
+- /clearitem - Removes all formatting of an item.
+
+### Features
+- Remove Asterisk
+- AutoGG and AutoGLHF
+
+
