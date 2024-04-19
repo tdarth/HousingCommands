@@ -36,6 +36,7 @@ Clicking the green Code Button, extracting the zip, and dragging the file into y
 - /vr <public, friends, guild, party> - Sets your house Visiting Rules.
 
 ### Commands
+- /hc - Opens the HousingCommands config menu.
 - /coords - Display your Coords in chat and a title.
 - /down - Teleport down a number of blocks.
 - /up - Teleport up a number of blocks.
