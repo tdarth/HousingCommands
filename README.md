@@ -54,8 +54,7 @@ Clicking the green Code Button, extracting the zip, and dragging the file into y
 - AutoGG and AutoGLHF
 - AutoWelcome
 - Join a house via a specified keyword.
-
-More to come.
+- Many more things to come!
 
 Suggestions? DM **@tdarth_** on Discord!
 
