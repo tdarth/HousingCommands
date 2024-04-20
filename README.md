@@ -57,5 +57,5 @@ Clicking the green Code Button, extracting the zip, and dragging the file into y
 - Many more things to come!
 
 ### Discord
-> 🔗 **Official Support Server:** https://discord.gg/4xupsUQt2M
+🔗 **Support Server:** https://discord.gg/4xupsUQt2M
 
