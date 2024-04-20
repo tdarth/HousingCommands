@@ -9,6 +9,8 @@ HousingCommands is a [ChatTriggers](https://chattriggers.com/) Module designed t
 - Command Shortcuts
 - QoL Housing Commands
 - Item Manipulation
+- AutoWelcome
+- Keyword -> Join House
 - Many more things to come!
 
 ## Installation
