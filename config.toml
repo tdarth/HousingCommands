@@ -19,7 +19,6 @@
 
 [hc_commands]
 	"&e&ltoggle_hc_commands" = true
-	discord_logger = true
 
 [command_shortcuts]
 	"&e&ltoggle_command_shortcuts" = true
