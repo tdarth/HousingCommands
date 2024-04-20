@@ -51,7 +51,7 @@ Clicking the green Code Button, extracting the zip, and dragging the file into y
 - Remove Asterisk
 - AutoGG and AutoGLHF
 - AutoWelcome
-- Join a house with a specified keyword.
+- Join a house via a specified keyword.
 
 More to come.
 
