@@ -34,6 +34,7 @@ Clicking the green Code Button, extracting the zip, and dragging the file into y
 - /heads - Opens the Skull Packs menu.
 - /vis <number> - Sets your visibility.
 - /vr <public, friends, guild, party> - Sets your house Visiting Rules.
+- /hr - Joins a random house.
 
 ### Commands
 - /hc - Opens the HousingCommands config menu.
@@ -47,6 +48,9 @@ Clicking the green Code Button, extracting the zip, and dragging the file into y
 ### Features
 - Remove Asterisk
 - AutoGG and AutoGLHF
+- AutoWelcome
+- Join a house with a specified keyword.
+
 More to come.
 
 Suggestions? DM **@tdarth_** on Discord!
