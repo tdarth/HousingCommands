@@ -37,6 +37,7 @@ Clicking the green Code Button, extracting the zip, and dragging the file into y
 - /vis <number> - Sets your visibility.
 - /vr <public, friends, guild, party> - Sets your house Visiting Rules.
 - /hr - Joins a random house.
+- /v <user> - Visit a user.
 
 ### Commands
 - /hc - Opens the HousingCommands config menu.
@@ -46,6 +47,7 @@ Clicking the green Code Button, extracting the zip, and dragging the file into y
 - /(any formatting letter)item - Sets the formatting of the item name.
 - /renameitem - Rename an item.
 - /clearitem - Removes all formatting of an item.
+- /hcemojis - View and copy emojis.
 
 ### Features
 - Remove Asterisk
