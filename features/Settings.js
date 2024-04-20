@@ -591,7 +591,7 @@ class Settings {
     constructor() {
         this.initialize(this);
         this.setCategoryDescription("Settings", "&bHousing&3Commands \n A QoL Housing Mod.")
-        this.setCategoryDescription("Random Houses", "&cUse at your own risk! \n &4Leave the game during a search to cancel.")
+        this.setCategoryDescription("Random Houses", "&aRuns /housing random until a keyword is found in the house name. \n &f \n &cUse at your own risk! \n &4Leave the game during a search to cancel.")
     }
 }
 
