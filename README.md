@@ -56,5 +56,6 @@ Clicking the green Code Button, extracting the zip, and dragging the file into y
 - Join a house via a specified keyword.
 - Many more things to come!
 
-Suggestions? DM **@tdarth_** on Discord!
+### Discord
+> 🔗 **Official Support Server:** https://discord.gg/4xupsUQt2M
 
