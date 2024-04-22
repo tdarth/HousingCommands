@@ -593,7 +593,7 @@ class Settings {
         }       
     }
 
-	@TextProperty({
+    @TextProperty({
         name: "Custom Keyword",
         description: "Sets the keyword to search for.",
         category: "Random Houses",
@@ -609,6 +609,27 @@ class Settings {
     })
     closeGui() {
         Client.currentGui.close();
+    }
+
+   @TextProperty({
+        name: "Custom Import",
+        description: "Sets the HousingEditor Action ID for the Custom Import.",
+        category: "Random Houses",
+        placeholder: "Enter your HousingEditor Action ID..",
+    })
+    customImport = "";
+	
+    @ButtonProperty({
+        name: "&fCustom Import",
+        description: "&7Imports the provided HousingEditor code.",
+        placeholder: "Import",
+        category: "Templates"
+    })
+    importCustom() {
+        import Settings from '../features/Settings';
+        import importTemplate from './templates';
+        importTemplate(Settings.customImport, 'CustomImport')
+        ChatLib.chat(Settings.chatPrefix + "&aImporting Custom Import..");
     }
 
     @ButtonProperty({
@@ -690,7 +711,7 @@ class Settings {
     }
 
 
-
+// Make 1 button imports
 
 
     constructor() {
