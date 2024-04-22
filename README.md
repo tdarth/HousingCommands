@@ -5,13 +5,12 @@
 
 HousingCommands is a [ChatTriggers](https://chattriggers.com/) Module designed to **save time** when creating a Hypixel House.
 
-## Overview
+## Features
 - Command Shortcuts
 - QoL Housing Commands
 - Item Manipulation
 - AutoWelcome
 - Keyword -> Join House
-- Templates
 - Many more things to come!
 
 ## Installation
@@ -53,7 +52,6 @@ Clicking the green Code Button, extracting the zip, and dragging the file into y
 - AutoGG and AutoGLHF
 - AutoWelcome
 - Join a house via a specified keyword.
-- Templates
 
 More to come.
 
