@@ -11,7 +11,7 @@ HousingCommands is a [ChatTriggers](https://chattriggers.com/) Module designed t
 - Item Manipulation
 - AutoWelcome
 - Keyword -> Join House
-- Many more things to come!
+- Templates
 
 ## Installation
 > [!IMPORTANT]
@@ -37,6 +37,7 @@ Clicking the green Code Button, extracting the zip, and dragging the file into y
 - /vis <number> - Sets your visibility.
 - /vr <public, friends, guild, party> - Sets your house Visiting Rules.
 - /hr - Joins a random house.
+- /v <user> - Visit a user's house.
 
 ### Commands
 - /hc - Opens the HousingCommands config menu.
@@ -52,6 +53,7 @@ Clicking the green Code Button, extracting the zip, and dragging the file into y
 - AutoGG and AutoGLHF
 - AutoWelcome
 - Join a house via a specified keyword.
+- Templates
 
 More to come.
 
