@@ -1,8 +1,0 @@
-{
-  "name": "HousingCommands",
-  "creator": "tdarth",
-  "description": "A QoL Housing Mod for Hypixel!",
-  "version": "1.0.0",
-  "entry": "index.js",
-  "requires": ["Vigilance"]
-}
