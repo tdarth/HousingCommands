@@ -49,4 +49,4 @@ register('command', (option) => {
     } else {
         ChatLib.chat(Settings.chatPrefix + '&cNo option provided! &8(hearts, hands, coins, skyblock, blocks, circles, stars, checks, faces, lines, arrows&8)')
     }
-}).setName('hcemojis');
+}).setName('hcemojis').setAliases('hcemoji');
