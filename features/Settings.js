@@ -602,13 +602,35 @@ class Settings {
     customKeyword = "";
 
     @ButtonProperty({
-        name: "&c&lClose",
-        description: "&7Closes the gui.",
-        placeholder: "Close",
+        name: "&e&lCommand List",
+        description: "&7Lists all commands this module has.",
+        placeholder: "View",
         category: "Credits"
     })
-    closeGui() {
+    commandList() {
         Client.currentGui.close();
+        ChatLib.chat ("\n &aShortcuts")
+        ChatLib.chat("/ea - Opens the Event Action menu.");
+        ChatLib.chat("/fun <edit, delete> <name> - Opens the Function menu.");
+        ChatLib.chat("/gstats - View all current Global Stats.");
+        ChatLib.chat("/lh - Goes to the Housing Lobby.");
+        ChatLib.chat("/mystats - View your current Player Stats.");
+        ChatLib.chat("/sb - Opens the Scoreboard Editor.");
+        ChatLib.chat("/heads - Opens the Skull Packs menu.");
+        ChatLib.chat("/vis <number> - Sets your visibility.");
+        ChatLib.chat("/vr <public, friends, guild, party> - Sets your house Visiting Rules.");
+        ChatLib.chat("/hr - Joins a random house.");
+        ChatLib.chat("/v <user> - Visit a user's house. \n");
+
+        ChatLib.chat("&aCommands");
+        ChatLib.chat("/hc - Opens the HousingCommands config menu.");
+        ChatLib.chat("/coords - Display your Coords in chat and a title.");
+        ChatLib.chat("/down - Teleport down a number of blocks.");
+        ChatLib.chat("/up - Teleport up a number of blocks.");
+        ChatLib.chat("/(any formatting letter)item - Sets the formatting of the item name.");
+        ChatLib.chat("/renameitem - Rename an item.");
+        ChatLib.chat("/clearitem - Removes all formatting of an item.");
+        ChatLib.chat("/hcemojis - View and copy emojis. \n");
     }
 
     @ButtonProperty({
