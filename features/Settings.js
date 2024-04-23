@@ -637,6 +637,18 @@ class Settings {
         ChatLib.chat(Settings.chatPrefix + "&aImporting Mob code..");
     }
 
+    @ButtonProperty({
+        name: "&6Leveling",
+        description: "&7Imports a Leveling function.",
+        placeholder: "Import",
+        category: "Templates"
+    })
+    importLevel() {
+        import Settings from '../features/Settings';
+        import importTemplate from './templates';
+        importTemplate('66283c377ffcbd4093181dd9', 'LevelHandler')
+        ChatLib.chat(Settings.chatPrefix + "&aImporting Level code..");
+    }
 
     @ButtonProperty({
         name: "&eUnix Timer",
