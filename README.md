@@ -47,6 +47,7 @@ Clicking the green Code Button, extracting the zip, and dragging the file into y
 - /(any formatting letter)item - Sets the formatting of the item name.
 - /renameitem - Rename an item.
 - /clearitem - Removes all formatting of an item.
+- /hcemojis - View and copy emojis.
 
 ### Features
 - Remove Asterisk
